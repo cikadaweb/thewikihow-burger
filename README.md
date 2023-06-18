@@ -1,1 +1,1 @@
-# thewikihow-burger
+# TheWikiHow Burger

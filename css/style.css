@@ -1,0 +1,25 @@
+body {
+  min-width: 320px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.2;
+  background-color: #FFFFFF;
+  color: #000000;
+}
+
+/* для бургер меню */
+body._lock {
+  overflow: hidden;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.container {
+  max-width: 1200px;
+  padding: 0 30px;
+  margin: 0 auto;
+}
